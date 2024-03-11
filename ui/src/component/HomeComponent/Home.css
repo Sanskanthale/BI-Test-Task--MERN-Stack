@@ -1,0 +1,29 @@
+.home-container{
+    min-height: 100vh; 
+ 
+}
+.left-div,.right-div,.middle-div{
+    min-height: 100vh;
+}
+.left-div,.right-div{
+    background-color:#F1F5FD; 
+}
+.div-inside-left{
+    height: 100px;
+   
+    
+}
+.div-inside-left2{
+    height: 80px;
+}
+.inside-middle-div{
+    height: 60px;
+    border-radius: 10px;
+}
+.white-text {
+    color: white; 
+}
+.div-inside-left2:hover
+ {
+    background-color:#ABB4C8; 
+}
